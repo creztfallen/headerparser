@@ -1,0 +1,24 @@
+{
+  "name": "headerparser",
+  "version": "1.0.0",
+  "description": "Header Parser project from fcc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creztfallen/headerparser.git"
+  },
+  "author": "Mateus Moreno (creztfallen)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creztfallen/headerparser/issues"
+  },
+  "homepage": "https://github.com/creztfallen/headerparser#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
